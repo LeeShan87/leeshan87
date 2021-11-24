@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeshan87" alt="leeshan87" /> </p>
 
-- 🔭 I’m currently working with [BitNinja](https://bitninja.io)
+- I’m currently working on my portofio site [https://zoltantoma.com](https://zoltantoma.com) and started to vlog [https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw](https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw)
 
-- 🔭 I’m currently working on [BitNinja Linux Agent](https://doc.bitninja.io/)
+- I will work on asynchronous testing for PHP.
 
-- 👨‍💻 My introduction page at [https://leeshan87.github.io](https://leeshan87.github.io)
+- My introduction page at [https://zoltantoma.com](https://zoltantoma.com)
 
-- 📫 How to reach me **leeshan87@gmail.com**
+- How to reach me **zoltantoma@gmail.com**
 
-- ⚡ Fun fact **I love problems :)**
+- Fun fact **I love problems :)**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
