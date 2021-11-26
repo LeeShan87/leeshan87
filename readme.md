@@ -33,6 +33,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What should I focus on? Fears and bad habits](https://www.zoltantoma.com/what-should-i-focus-on/)
+- [Start showing your work](https://www.zoltantoma.com/start-showing-your-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
