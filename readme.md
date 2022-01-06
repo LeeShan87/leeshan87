@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Before my upgrade](https://www.youtube.com/watch?v=rRphZvPBb8E)
 - [Dev vlog #4 go&lpar;Lang&rpar; nuts](https://www.youtube.com/watch?v=zj_DI34Tmv4)
 - [Dev vlog #3 Don&#39;t wait to get started](https://www.youtube.com/watch?v=pLptNyr8BCA)
 - [Dev vlog #2 Nothing is original](https://www.youtube.com/watch?v=TsTbRdSCSP0)
 - [My open-source developer vlog #1](https://www.youtube.com/watch?v=DjRNcoR_ZX8)
-- [The start of my habit changing](https://www.youtube.com/watch?v=xodTyXZGngY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw)
