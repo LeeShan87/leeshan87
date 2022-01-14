@@ -38,6 +38,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Kubernetes](https://www.zoltantoma.com/learning-kubernetes/)
 - [What should I focus on? Fears and bad habits](https://www.zoltantoma.com/what-should-i-focus-on/)
 - [Start showing your work](https://www.zoltantoma.com/start-showing-your-work/)
 <!-- BLOG-POST-LIST:END -->
