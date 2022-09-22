@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeshan87" alt="leeshan87" /> </p>
 
-- I’m currently working on my portofio site [https://zoltantoma.com](https://zoltantoma.com) and started to vlog [https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw](https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw)
-
-- I will work on asynchronous testing for PHP.
+- I’m currently working on making the internet a better safer palce.
 
 - My introduction page at [https://zoltantoma.com](https://zoltantoma.com)
 
