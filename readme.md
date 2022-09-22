@@ -24,11 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Camera upgrade with a c920 &lpar;unboxing&rpar;](https://www.youtube.com/watch?v=EsiUADgAVxU)
-- [Lighting upgrade with Key Light Airs &lpar;unboxing&rpar;](https://www.youtube.com/watch?v=uhpwjNQ6CYo)
-- [Before my upgrade](https://www.youtube.com/watch?v=rRphZvPBb8E)
-- [Dev vlog #4 go&lpar;Lang&rpar; nuts](https://www.youtube.com/watch?v=zj_DI34Tmv4)
-- [Dev vlog #3 Don&#39;t wait to get started](https://www.youtube.com/watch?v=pLptNyr8BCA)
+- [Lets make the internet a better place together.](https://www.youtube.com/watch?v=yvmBDCYsLeI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw)
