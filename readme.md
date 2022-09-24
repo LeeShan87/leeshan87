@@ -22,6 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is GoSecNinja is about?](https://www.youtube.com/watch?v=Tv3JYXEyum8)
 - [Lets make the internet a better place together.](https://www.youtube.com/watch?v=yvmBDCYsLeI)
 <!-- YOUTUBE:END -->
 
