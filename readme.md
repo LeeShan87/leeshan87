@@ -22,6 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ask a CISO!](https://www.youtube.com/watch?v=vdH-e4tW39o)
 - [Finding a supportive community: EddieHub](https://www.youtube.com/watch?v=AedQW9lUe7E)
 - [What is GoSecNinja is about?](https://www.youtube.com/watch?v=Tv3JYXEyum8)
 - [Lets make the internet a better place together.](https://www.youtube.com/watch?v=yvmBDCYsLeI)
