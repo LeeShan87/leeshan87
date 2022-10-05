@@ -37,6 +37,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The beginning of GoSecNinja](https://www.zoltantoma.com/the-beginning-of-gosecninja/)
 - [Which to Hyper-V](https://www.zoltantoma.com/which-to-hyper-v/)
 - [Learning Kubernetes](https://www.zoltantoma.com/learning-kubernetes/)
 - [What should I focus on? Fears and bad habits](https://www.zoltantoma.com/what-should-i-focus-on/)
