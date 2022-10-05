@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeshan87" alt="leeshan87" /> </p>
 
-- I’m currently working on making the internet a better safer palce.
+- I’m currently working on making the internet a better safer place.
 
 - My introduction page at [https://zoltantoma.com](https://zoltantoma.com)
 
-- How to reach me **zoltantoma@gmail.com**
+- My CV [https://zoltantoma.com/cv](https://zoltantoma.com/cv)
+
+- How to reach me **zoltantoma87@gmail.com**
 
 - Fun fact **I love problems :)**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/toma-zolt%C3%A1n-9a3a7782/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zoltan-toma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/toma-zoltan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zoltan-toma" height="30" width="40" /></a>
 <!--<a href="https://stackoverflow.com/users/<uid>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="<uid>" height="30" width="40" /></a> Uncomment if needed -->
 <!--<a href="https://fb.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="<username>" height="30" width="40" /></a>Uncomment if needed -->
 <!--<a href="https://medium.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="<username>" height="30" width="40" /></a>Uncomment if needed -->
