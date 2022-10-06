@@ -24,6 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to make myself visible to open source?](https://www.youtube.com/watch?v=qz8i71AxNRU)
 - [Ask a CISO!](https://www.youtube.com/watch?v=vdH-e4tW39o)
 - [Finding a supportive community: EddieHub](https://www.youtube.com/watch?v=AedQW9lUe7E)
 - [What is GoSecNinja is about?](https://www.youtube.com/watch?v=Tv3JYXEyum8)
