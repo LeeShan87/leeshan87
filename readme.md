@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The successful hacking phase triangle with the eye of a defender.](https://www.youtube.com/watch?v=2e_KAZ_avkA)
 - [How to make myself visible to open source?](https://www.youtube.com/watch?v=qz8i71AxNRU)
 - [Ask a CISO!](https://www.youtube.com/watch?v=vdH-e4tW39o)
 - [Finding a supportive community: EddieHub](https://www.youtube.com/watch?v=AedQW9lUe7E)
 - [What is GoSecNinja is about?](https://www.youtube.com/watch?v=Tv3JYXEyum8)
-- [Lets make the internet a better place together.](https://www.youtube.com/watch?v=yvmBDCYsLeI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCcrWxBaxcYh7xsumEaya9Hw)
