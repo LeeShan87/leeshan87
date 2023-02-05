@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zoltán Toma</h1>
 <h3 align="center">SecDevOps since ~2015</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leeshan87" alt="leeshan87" /> </p>
-
 - I’m currently working on making the internet a better safer place.
 
 - My introduction page at [https://zoltantoma.com](https://zoltantoma.com)
