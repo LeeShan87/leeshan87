@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ghost publisher for Obsidian](https://www.zoltantoma.com/ghost-publisher-for-obsidian-2/)
 - [The beginning of GoSecNinja](https://www.zoltantoma.com/the-beginning-of-gosecninja/)
 - [Which to Hyper-V](https://www.zoltantoma.com/which-to-hyper-v/)
 - [Learning Kubernetes](https://www.zoltantoma.com/learning-kubernetes/)
 - [What should I focus on? Fears and bad habits](https://www.zoltantoma.com/what-should-i-focus-on/)
-- [Start showing your work](https://www.zoltantoma.com/start-showing-your-work/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
