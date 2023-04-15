@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix rss feed for Hugo](https://zoltantoma.com/posts/2023-05-15-fix-rss-feed-for-hugo/)
 - [About](https://zoltantoma.com/about/)
 - [CV](https://zoltantoma.com/cv/)
 - [Ghost publisher for Obsidian](https://zoltantoma.com/posts/2023-03-30-ghost-publisher/)
 - [The beginning of GoSecNinja](https://zoltantoma.com/posts/2022-10-03-go-gosecninja/)
-- [Learning Kubernetes](https://zoltantoma.com/posts/2022-01-14-learning-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
