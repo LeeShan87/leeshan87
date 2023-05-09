@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest Personal Content
 on:
   schedule:
     # Runs every hour
@@ -16,7 +16,7 @@ jobs:
           readme_path: ./readme.md
           feed_list: "https://zoltantoma.com/index.xml#feed"
   update-readme-with-youtube:
-    name: Update this repo's README with GoSecNinja content
+    name: Update this repo's README with Videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

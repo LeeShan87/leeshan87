@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Latest GoSecNinja Content
 on:
   schedule:
     # Runs every hour
@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with GoSecNinja content
+    name: Update this repo's README with GoSecNinja Videos
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,7 +17,7 @@ jobs:
           readme_path: ./readme.md
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCcrWxBaxcYh7xsumEaya9Hw"
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with GoSecNinja latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
