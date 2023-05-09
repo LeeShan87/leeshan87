@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Common email issues](https://zoltantoma.com/posts/2023-05-04-common-email-issues/)
 - [Pretotype a Kanban whiteboard](https://zoltantoma.com/posts/2023-05-03-pretotype-a-kanban-whiteboard/)
 - [Using Trello with Obsidian](https://zoltantoma.com/posts/2023-04-18-obsidian-trello/)
 - [Fix rss feed for Hugo](https://zoltantoma.com/posts/2023-05-15-fix-rss-feed-for-hugo/)
 - [About](https://zoltantoma.com/about/)
-- [CV](https://zoltantoma.com/cv/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
