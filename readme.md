@@ -13,10 +13,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/toma-zoltan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zoltan-toma" height="30" width="40" /></a>
-<!--<a href="https://stackoverflow.com/users/<uid>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="<uid>" height="30" width="40" /></a> Uncomment if needed -->
-<!--<a href="https://fb.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="<username>" height="30" width="40" /></a>Uncomment if needed -->
-<!--<a href="https://medium.com/<username>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="<username>" height="30" width="40" /></a>Uncomment if needed -->
+<a href="https://www.linkedin.com/in/toma-zoltan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoltan-toma" height="30" width="40" /></a>
+<a href="https://twitter.com/ZoltanToma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zoltantoma" height="30" width="40" /></a>
+<a href="https://youtube.com/@zoltantoma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zoltantoma" height="30" width="40" /></a>
+
 </p>
 
 
@@ -44,6 +44,23 @@
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
 
 ---
+
+## GoSecNinja
+
+GoSecNinja is a pet project of mine, where I try to promote and contribute to projects which try to make the internet a safer place.
+Can't help it. It is still a passion.
+
+If you know good:
+- open-source
+- Go based client side (Not browser :D)
+- or security solutions
+
+Feel free to reach out:
+<p align="left">
+<a href="https://twitter.com/@GoSecNinja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GoSecNinja" height="30" width="40" /></a>
+<a href="https://youtube.com/@gosecninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="GoSecNinja" height="30" width="40" /></a>
+<a href="mailto: zoltantoma@gosec.ninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@svg-icons/simple-icons@1.86.0/gmail.svg" alt="GoSecNinja" height="30" width="40" /></a>
+</p>
 
 ### 📺 Latest YouTube Videos from GoSecNinja
 
