@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix GitHub blog post publisher action](https://zoltantoma.com/posts/2023-05-10-fix-github-blog-post-action/)
 - [Grammarly](https://zoltantoma.com/tools/grammarly/)
 - [Hugo](https://zoltantoma.com/tools/hugo/)
 - [Markdown](https://zoltantoma.com/tools/markdown/)
 - [Obsidian](https://zoltantoma.com/tools/obsidian/)
-- [Pretotyping](https://zoltantoma.com/books/pretotyping/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
