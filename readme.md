@@ -48,11 +48,7 @@
 ### 📺 Latest YouTube Videos from GoSecNinja
 
 <!-- GS-YOUTUBE:START -->
-- [Let&#39;s play a game!](https://www.youtube.com/watch?v=nnmlO0jlJ7M)
-- [OWASP is not &lpar;just&rpar; the Top 10](https://www.youtube.com/watch?v=YRO_mRpG55c)
-- [What skills should we improve to get into cybersecurity?](https://www.youtube.com/watch?v=GsHoTBVFJ1k)
-- [The successful hacking phase triangle with the eye of a defender.](https://www.youtube.com/watch?v=2e_KAZ_avkA)
-- [How to make myself visible to open source?](https://www.youtube.com/watch?v=qz8i71AxNRU)
+
 <!-- GS-YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@GoSecNinja)
@@ -62,14 +58,10 @@
 ### 📕 Latest Blog Posts from GoSecNinja
 
 <!-- GS-BLOG:START -->
-- [Grammarly](https://zoltantoma.com/tools/grammarly/)
-- [Hugo](https://zoltantoma.com/tools/hugo/)
-- [Markdown](https://zoltantoma.com/tools/markdown/)
-- [Obsidian](https://zoltantoma.com/tools/obsidian/)
-- [Pretotyping](https://zoltantoma.com/books/pretotyping/)
+
 <!-- GS-BLOG:END -->
 
-➡️ [more blog posts...](https://zoltantoma.com)
+➡️ [more blog posts...](https://gosec.ninja)
 
 ---
 
