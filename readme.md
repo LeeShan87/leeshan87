@@ -35,7 +35,7 @@
 
 ---
 
-### 📺 Latest Presonal YouTube Videos
+### 📺 Latest Personal YouTube Videos
 
 <!-- YOUTUBE:START -->
 
@@ -59,7 +59,7 @@ Feel free to reach out:
 <p align="left">
 <a href="https://twitter.com/@GoSecNinja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GoSecNinja" height="30" width="40" /></a>
 <a href="https://youtube.com/@gosecninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="GoSecNinja" height="30" width="40" /></a>
-<a href="mailto: zoltantoma@gosec.ninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/@svg-icons/simple-icons@1.86.0/gmail.svg" alt="GoSecNinja" height="30" width="40" /></a>
+<a href="mailto: zoltantoma@gosec.ninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="GoSecNinja" height="30" width="40" /></a>
 </p>
 
 ### 📺 Latest YouTube Videos from GoSecNinja
