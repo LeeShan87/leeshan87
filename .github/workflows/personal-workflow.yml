@@ -1,9 +1,10 @@
 name: Latest Personal Content
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
@@ -15,13 +16,12 @@ jobs:
         with:
           readme_path: ./readme.md
           feed_list: "https://zoltantoma.com/index.xml#feed"
-  update-readme-with-youtube:
-    name: Update this repo's README with Videos
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
           readme_path: ./readme.md
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5cUEDQfuDXin4vFf18yrgA"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "yyyy-mm-dd"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+      
