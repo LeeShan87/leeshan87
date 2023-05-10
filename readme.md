@@ -47,12 +47,16 @@
 
 ### 📺 Latest YouTube Videos from GoSecNinja
 
-<!-- GS-YOUTUBE:START -->
-- [Let&#39;s play a game!](https://www.youtube.com/watch?v=nnmlO0jlJ7M)
-- [OWASP is not &lpar;just&rpar; the Top 10](https://www.youtube.com/watch?v=YRO_mRpG55c)
-- [What skills should we improve to get into cybersecurity?](https://www.youtube.com/watch?v=GsHoTBVFJ1k)
-- [The successful hacking phase triangle with the eye of a defender.](https://www.youtube.com/watch?v=2e_KAZ_avkA)
-- [How to make myself visible to open source?](https://www.youtube.com/watch?v=qz8i71AxNRU)
+<!-- GS-YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nnmlO0jlJ7M"><img width="140px" src="https://i.ytimg.com/vi/nnmlO0jlJ7M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nnmlO0jlJ7M">Let&#39;s play a game!</a><br/>2022-11-05</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YRO_mRpG55c"><img width="140px" src="https://i.ytimg.com/vi/YRO_mRpG55c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YRO_mRpG55c">OWASP is not &lpar;just&rpar; the Top 10</a><br/>2022-11-02</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GsHoTBVFJ1k"><img width="140px" src="https://i.ytimg.com/vi/GsHoTBVFJ1k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GsHoTBVFJ1k">What skills should we improve to get into cybersecurity?</a><br/>2022-10-15</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2e_KAZ_avkA"><img width="140px" src="https://i.ytimg.com/vi/2e_KAZ_avkA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2e_KAZ_avkA">The successful hacking phase triangle with the eye of a defender.</a><br/>2022-10-09</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qz8i71AxNRU"><img width="140px" src="https://i.ytimg.com/vi/qz8i71AxNRU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qz8i71AxNRU">How to make myself visible to open source?</a><br/>2022-10-06</td></tr></table>
 <!-- GS-YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@GoSecNinja)
