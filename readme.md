@@ -37,8 +37,8 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START -->
-
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Oevg_OKITuI"><img width="140px" src="https://i.ytimg.com/vi/Oevg_OKITuI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Oevg_OKITuI">Samsung Galaxy Tab Lite &lpar;SM-P610&rpar; reboot loop</a><br/>2023-05-15</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
