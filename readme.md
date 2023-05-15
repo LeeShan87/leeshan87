@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Oevg_OKITuI"><img width="140px" src="https://i.ytimg.com/vi/Oevg_OKITuI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rn1IslkI20M"><img width="140px" src="https://i.ytimg.com/vi/rn1IslkI20M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rn1IslkI20M">Welcome to my channel for shiny objects</a><br/>2023-05-15</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Oevg_OKITuI"><img width="140px" src="https://i.ytimg.com/vi/Oevg_OKITuI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Oevg_OKITuI">Samsung Galaxy Tab Lite &lpar;SM-P610&rpar; reboot loop</a><br/>2023-05-15</td></tr></table>
 <!-- YOUTUBE:END -->
 
