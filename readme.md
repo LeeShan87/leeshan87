@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Find your niche - bad YouTube advice](https://zoltantoma.com/posts/findyourniche/2023-05-15-find-your-niche/)
+- [First personal video](https://zoltantoma.com/posts/2023-05-15-first-personal-video/)
 - [Fix GitHub blog post publisher action](https://zoltantoma.com/posts/2023-05-10-fix-github-blog-post-action/)
 - [Grammarly](https://zoltantoma.com/tools/grammarly/)
 - [Hugo](https://zoltantoma.com/tools/hugo/)
-- [Markdown](https://zoltantoma.com/tools/markdown/)
-- [Obsidian](https://zoltantoma.com/tools/obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
