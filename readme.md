@@ -24,9 +24,9 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is open-source contribution](https://zoltantoma.com/posts/wios/2023-05-15-what-is-open-source/)
 - [Find your niche - bad YouTube advice](https://zoltantoma.com/posts/2023-05-15-find-your-niche/)
 - [First personal video](https://zoltantoma.com/posts/2023-05-15-first-personal-video/)
-- [What is open-source](https://zoltantoma.com/posts/wios/2023-05-15-what-is-open-source/)
 - [Fix GitHub blog post publisher action](https://zoltantoma.com/posts/2023-05-10-fix-github-blog-post-action/)
 - [Grammarly](https://zoltantoma.com/tools/grammarly/)
 <!-- BLOG-POST-LIST:END -->
