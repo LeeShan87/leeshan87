@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=63cLei3pQFo"><img width="140px" src="https://i.ytimg.com/vi/63cLei3pQFo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YblzS2QTQMI"><img width="140px" src="https://i.ytimg.com/vi/YblzS2QTQMI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YblzS2QTQMI">Version locking can help defeat the demo God</a><br/>2023-06-06</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=63cLei3pQFo"><img width="140px" src="https://i.ytimg.com/vi/63cLei3pQFo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=63cLei3pQFo">Initial setup of my HackerRank project</a><br/>2023-06-05</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vuYckmNfMOU"><img width="140px" src="https://i.ytimg.com/vi/vuYckmNfMOU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vuYckmNfMOU">HackerRank as a personal marketing tools</a><br/>2023-06-05</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=lr2spMAx178">Thinking about what is open-source, how can we contribute and what else can be open-source project</a><br/>2023-05-20</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8FCG_JEAxT8"><img width="140px" src="https://i.ytimg.com/vi/8FCG_JEAxT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8FCG_JEAxT8">A test video can lead to content</a><br/>2023-05-16</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PoXWeeiIGQY"><img width="140px" src="https://i.ytimg.com/vi/PoXWeeiIGQY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PoXWeeiIGQY">Bad YouTuber advice - Find your Niche</a><br/>2023-05-16</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
