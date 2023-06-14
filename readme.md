@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I need to pivot my HackerRank project](https://zoltantoma.com/posts/2023-06-14-i-need-to-pivot-my-hackerrank-project/)
 - [Talk about my personal website](https://zoltantoma.com/posts/2023-06-07-talk-about-my-personal-website/)
 - [Setup a HackerRank workflow](https://zoltantoma.com/posts/2023-05-15-setup-a-hackerrank-workflow/)
 - [What is open-source contribution](https://zoltantoma.com/posts/2023-05-15-what-is-open-source/)
 - [Find your niche - bad YouTube advice](https://zoltantoma.com/posts/2023-05-15-find-your-niche/)
-- [First personal video](https://zoltantoma.com/posts/2023-05-15-first-personal-video/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
