@@ -37,16 +37,16 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PMQf1lcuw9I"><img width="140px" src="https://i.ytimg.com/vi/PMQf1lcuw9I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WfVe11AmxcI"><img width="140px" src="https://i.ytimg.com/vi/WfVe11AmxcI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WfVe11AmxcI">Blizzard under DDos</a><br/>2023-06-25</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JgwfBGSmY3M"><img width="140px" src="https://i.ytimg.com/vi/JgwfBGSmY3M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JgwfBGSmY3M">Zero trust is not a viable option</a><br/>2023-06-25</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PMQf1lcuw9I"><img width="140px" src="https://i.ytimg.com/vi/PMQf1lcuw9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PMQf1lcuw9I">Wondering about the future of Humanity</a><br/>2023-06-21</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jY259I4nmGI"><img width="140px" src="https://i.ytimg.com/vi/jY259I4nmGI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jY259I4nmGI">The hiring team saw my HackerRank video</a><br/>2023-06-14</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aBFrDj-WE5M"><img width="140px" src="https://i.ytimg.com/vi/aBFrDj-WE5M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aBFrDj-WE5M">Is POP3 or IMAP protocol vulnerable?</a><br/>2023-06-11</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5WenNbRxEXM"><img width="140px" src="https://i.ytimg.com/vi/5WenNbRxEXM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5WenNbRxEXM">How I improved my personal branding</a><br/>2023-06-07</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YblzS2QTQMI"><img width="140px" src="https://i.ytimg.com/vi/YblzS2QTQMI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YblzS2QTQMI">Version locking can help defeat the demo God</a><br/>2023-06-06</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
