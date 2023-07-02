@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Security horror story](https://zoltantoma.com/posts/2023-07-02-security-horror-story/)
 - [E-meet with HackGate](https://zoltantoma.com/posts/2023-07-01-hackgate/)
 - [Zero trust is not viable option](https://zoltantoma.com/posts/2023-06-25-zero-trust-is-not-viable/)
 - [Future of Humanity](https://zoltantoma.com/posts/2023-06-20-future-of-humanity/)
 - [Which language should I use](https://zoltantoma.com/posts/2023-06-16-which-language-should-i-use/)
-- [I need to pivot my HackerRank project](https://zoltantoma.com/posts/2023-06-14-i-need-to-pivot-my-hackerrank-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
