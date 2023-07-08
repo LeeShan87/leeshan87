@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wF8C67QSV-A"><img width="140px" src="https://i.ytimg.com/vi/wF8C67QSV-A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=39VOH8l85iI"><img width="140px" src="https://i.ytimg.com/vi/39VOH8l85iI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=39VOH8l85iI">Start-up mentality - find supporters</a><br/>2023-07-08</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wF8C67QSV-A"><img width="140px" src="https://i.ytimg.com/vi/wF8C67QSV-A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wF8C67QSV-A">Observe the wonders around you</a><br/>2023-07-07</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BLOCi8j5tAo"><img width="140px" src="https://i.ytimg.com/vi/BLOCi8j5tAo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BLOCi8j5tAo">Security horror story - 20000 malware on a single website</a><br/>2023-07-02</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=WfVe11AmxcI">Blizzard under DDos</a><br/>2023-06-25</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JgwfBGSmY3M"><img width="140px" src="https://i.ytimg.com/vi/JgwfBGSmY3M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JgwfBGSmY3M">Zero trust is not a viable option</a><br/>2023-06-25</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PMQf1lcuw9I"><img width="140px" src="https://i.ytimg.com/vi/PMQf1lcuw9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PMQf1lcuw9I">Wondering about the future of Humanity</a><br/>2023-06-21</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
