@@ -38,7 +38,7 @@
 ### 📺 Latest Personal YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wF8C67QSV-A"><img width="140px" src="https://i.ytimg.com/vi/wF8C67QSV-A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wF8C67QSV-A">2023. július 7.</a><br/>2023-07-07</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=wF8C67QSV-A">Observe the wonders around you</a><br/>2023-07-07</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BLOCi8j5tAo"><img width="140px" src="https://i.ytimg.com/vi/BLOCi8j5tAo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BLOCi8j5tAo">Security horror story - 20000 malware on a single website</a><br/>2023-07-02</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WfVe11AmxcI"><img width="140px" src="https://i.ytimg.com/vi/WfVe11AmxcI/mqdefault.jpg"></a></td>
