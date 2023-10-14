@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=julZU7EV1hk"><img width="140px" src="https://i.ytimg.com/vi/julZU7EV1hk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nGwxQ_D57eA"><img width="140px" src="https://i.ytimg.com/vi/nGwxQ_D57eA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nGwxQ_D57eA">My two regrets about a farewell party - expressing gratitude</a><br/>2023-10-14</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=julZU7EV1hk"><img width="140px" src="https://i.ytimg.com/vi/julZU7EV1hk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=julZU7EV1hk">My new whiteboard</a><br/>2023-10-01</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zA1rxjtnYsg"><img width="140px" src="https://i.ytimg.com/vi/zA1rxjtnYsg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zA1rxjtnYsg">Personal experience about Dynatrace PUB event.</a><br/>2023-09-24</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=VmS3RuLAYAY">Behind the scenes - Why I&#39;ve invested in studio equipment</a><br/>2023-09-23</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Fe7DBxDMGT8"><img width="140px" src="https://i.ytimg.com/vi/Fe7DBxDMGT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Fe7DBxDMGT8">Godox Movelink 2 M2 VS Trust Emit Plus GXT 252+</a><br/>2023-09-23</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KW8LirktWLI"><img width="140px" src="https://i.ytimg.com/vi/KW8LirktWLI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KW8LirktWLI">Studio upgrade - Feels like Christmas</a><br/>2023-09-19</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
