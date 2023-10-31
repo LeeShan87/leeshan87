@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XGNNNkcchwo"><img width="140px" src="https://i.ytimg.com/vi/XGNNNkcchwo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DdAoDBaNX64"><img width="140px" src="https://i.ytimg.com/vi/DdAoDBaNX64/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DdAoDBaNX64">A security metric that no one tracks</a><br/>2023-10-31</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XGNNNkcchwo"><img width="140px" src="https://i.ytimg.com/vi/XGNNNkcchwo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XGNNNkcchwo">A pain in my back made me put up the wallpaper.</a><br/>2023-10-30</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zoRQw9zGFP4"><img width="140px" src="https://i.ytimg.com/vi/zoRQw9zGFP4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zoRQw9zGFP4">New channel name: Welcome to CMC</a><br/>2023-10-29</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=622Nv-52970">What you don&#39;t measure, you cannot improve. | My achievement matrix</a><br/>2023-10-19</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nGwxQ_D57eA"><img width="140px" src="https://i.ytimg.com/vi/nGwxQ_D57eA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nGwxQ_D57eA">My two regrets about a farewell party - expressing gratitude</a><br/>2023-10-14</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=julZU7EV1hk"><img width="140px" src="https://i.ytimg.com/vi/julZU7EV1hk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=julZU7EV1hk">My new whiteboard</a><br/>2023-10-01</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
