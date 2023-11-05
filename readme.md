@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KmULezsfYD0"><img width="140px" src="https://i.ytimg.com/vi/KmULezsfYD0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rwccqlk2HfQ"><img width="140px" src="https://i.ytimg.com/vi/rwccqlk2HfQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rwccqlk2HfQ">The most common question I get from people want to get into IT</a><br/>2023-11-05</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KmULezsfYD0"><img width="140px" src="https://i.ytimg.com/vi/KmULezsfYD0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KmULezsfYD0">An underrated metric that can improve your business</a><br/>2023-11-04</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Eaka8gTEWeQ"><img width="140px" src="https://i.ytimg.com/vi/Eaka8gTEWeQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Eaka8gTEWeQ">What to do with security vulnerabilities?</a><br/>2023-11-04</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=AXSo-8DWZBQ">This color s***k! I told you it would be better. [Joke]</a><br/>2023-11-02</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DdAoDBaNX64"><img width="140px" src="https://i.ytimg.com/vi/DdAoDBaNX64/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DdAoDBaNX64">A security metric that no one tracks</a><br/>2023-10-31</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XGNNNkcchwo"><img width="140px" src="https://i.ytimg.com/vi/XGNNNkcchwo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XGNNNkcchwo">A pain in my back made me put up the wallpaper.</a><br/>2023-10-30</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
