@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cwhBY0ejSXM"><img width="140px" src="https://i.ytimg.com/vi/cwhBY0ejSXM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZJFADtdLXRY"><img width="140px" src="https://i.ytimg.com/vi/ZJFADtdLXRY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZJFADtdLXRY">We have a natural ambivalence against wasted efforts</a><br/>2023-11-08</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cwhBY0ejSXM"><img width="140px" src="https://i.ytimg.com/vi/cwhBY0ejSXM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cwhBY0ejSXM">Why I cannot improve 1%?</a><br/>2023-11-07</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g7FkuqLxBfs"><img width="140px" src="https://i.ytimg.com/vi/g7FkuqLxBfs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g7FkuqLxBfs">Why are some security projects stuck?</a><br/>2023-11-06</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=GRO-chVKD7k">What can we do with security reports</a><br/>2023-11-05</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rwccqlk2HfQ"><img width="140px" src="https://i.ytimg.com/vi/rwccqlk2HfQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rwccqlk2HfQ">The most common question I get from people want to get into IT</a><br/>2023-11-05</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KmULezsfYD0"><img width="140px" src="https://i.ytimg.com/vi/KmULezsfYD0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KmULezsfYD0">An underrated metric that can improve your business</a><br/>2023-11-04</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
