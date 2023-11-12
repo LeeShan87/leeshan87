@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=52tyW45WhGQ"><img width="140px" src="https://i.ytimg.com/vi/52tyW45WhGQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tm9RQj7fhBg"><img width="140px" src="https://i.ytimg.com/vi/tm9RQj7fhBg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tm9RQj7fhBg">Reorginazing my recordings</a><br/>2023-11-12</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=52tyW45WhGQ"><img width="140px" src="https://i.ytimg.com/vi/52tyW45WhGQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=52tyW45WhGQ">A Hitchhiker&#39;s guide moment</a><br/>2023-11-09</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZJFADtdLXRY"><img width="140px" src="https://i.ytimg.com/vi/ZJFADtdLXRY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZJFADtdLXRY">We have a natural ambivalence against wasted efforts</a><br/>2023-11-08</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=cwhBY0ejSXM">Why I cannot improve 1%?</a><br/>2023-11-07</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g7FkuqLxBfs"><img width="140px" src="https://i.ytimg.com/vi/g7FkuqLxBfs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g7FkuqLxBfs">Why are some security projects stuck?</a><br/>2023-11-06</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GRO-chVKD7k"><img width="140px" src="https://i.ytimg.com/vi/GRO-chVKD7k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GRO-chVKD7k">What can we do with security reports</a><br/>2023-11-05</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
