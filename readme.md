@@ -38,7 +38,7 @@
 ### 📺 Latest Personal YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ce_rHaY1kz0"><img width="140px" src="https://i.ytimg.com/vi/Ce_rHaY1kz0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ce_rHaY1kz0">I have not time to workout?</a><br/>2023-11-26</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Ce_rHaY1kz0">I have no time to workout?</a><br/>2023-11-26</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u1qRL_0Yx60"><img width="140px" src="https://i.ytimg.com/vi/u1qRL_0Yx60/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u1qRL_0Yx60">How I create my new thumbnails</a><br/>2023-11-13</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tm9RQj7fhBg"><img width="140px" src="https://i.ytimg.com/vi/tm9RQj7fhBg/mqdefault.jpg"></a></td>
