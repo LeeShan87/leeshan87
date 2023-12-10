@@ -37,7 +37,9 @@
 
 ### 📺 Latest Personal YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ce_rHaY1kz0"><img width="140px" src="https://i.ytimg.com/vi/Ce_rHaY1kz0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VRQx6Z8AaI8"><img width="140px" src="https://i.ytimg.com/vi/VRQx6Z8AaI8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VRQx6Z8AaI8">How My Rollable Desk Transforms Content Creation and Offline Work</a><br/>2023-12-10</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ce_rHaY1kz0"><img width="140px" src="https://i.ytimg.com/vi/Ce_rHaY1kz0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ce_rHaY1kz0">I have no time to workout?</a><br/>2023-11-26</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u1qRL_0Yx60"><img width="140px" src="https://i.ytimg.com/vi/u1qRL_0Yx60/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u1qRL_0Yx60">How I create my new thumbnails</a><br/>2023-11-13</td></tr></table>
@@ -45,8 +47,6 @@
 <td><a href="https://www.youtube.com/watch?v=tm9RQj7fhBg">Reorginazing my recordings</a><br/>2023-11-12</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=52tyW45WhGQ"><img width="140px" src="https://i.ytimg.com/vi/52tyW45WhGQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=52tyW45WhGQ">A Hitchhiker&#39;s guide moment</a><br/>2023-11-09</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZJFADtdLXRY"><img width="140px" src="https://i.ytimg.com/vi/ZJFADtdLXRY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZJFADtdLXRY">We have a natural ambivalence against wasted efforts</a><br/>2023-11-08</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@zoltantoma)
