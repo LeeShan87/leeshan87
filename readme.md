@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LinkedIn blocks my responses?](https://zoltantoma.com/posts/2024-03-01-linkedin-block-my-responses/)
 - [Observability for dummies](https://zoltantoma.com/posts/2023-08-05-observability/observability-for-dummies/)
 - [Making my self supportable](https://zoltantoma.com/posts/2023-07-30-make-my-self-supportable/)
 - [A Security horror story](https://zoltantoma.com/posts/2023-07-02-security-horror-story/)
 - [E-meet with HackGate](https://zoltantoma.com/posts/2023-07-01-hackgate/)
-- [Zero trust is not viable option](https://zoltantoma.com/posts/2023-06-25-zero-trust-is-not-viable/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
