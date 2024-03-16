@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Playing Life&#39;s Game](https://zoltantoma.com/posts/2024-03-15-playing-lifes-game/)
 - [Is Writing a Book Worth It?](https://zoltantoma.com/posts/2024-03-13-writing-a-book/)
 - [From Consumers to Creators: How Your Monitors Define You](https://zoltantoma.com/posts/2024-03-10-how-your-monitors-define-you/)
 - [Beyond Note-Taking: Building a Second Brain in the Age of AI](https://zoltantoma.com/posts/2024-03-05-second-brain-in-the-age-of-ai/)
 - [Your job is your biggest vulnerability](https://zoltantoma.com/posts/2024-03-02-your-bigges-vulnerability/)
-- [LinkedIn blocks my responses?](https://zoltantoma.com/posts/2024-03-01-linkedin-block-my-responses/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
