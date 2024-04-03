@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Observability in a nutshell](https://zoltantoma.com/posts/2024-03-30-observability-in-a-nutshell/)
 - [Hacking My Inner World](https://zoltantoma.com/posts/2024-03-25-hacking-my_inner_world/)
 - [Backy vs. The Professional](https://zoltantoma.com/posts/2024-03-18-backy-vs-the-professional/)
 - [Playing Life&#39;s Game](https://zoltantoma.com/posts/2024-03-15-playing-lifes-game/)
 - [Is Writing a Book Worth It?](https://zoltantoma.com/posts/2024-03-13-writing-a-book/)
-- [From Consumers to Creators: How Your Monitors Define You](https://zoltantoma.com/posts/2024-03-10-how-your-monitors-define-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
