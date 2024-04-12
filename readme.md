@@ -24,11 +24,11 @@
 ### 📕 Latest Personal Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ebenezer Anderson and the Spirits of the Digital World - Part 1](https://zoltantoma.com/posts/2024-04-10-digital-ebenezer-part-1/)
 - [My biggest failer in cyber security](https://zoltantoma.com/posts/2024-04-05-my_biggest_failer_in_cyber/)
 - [Observability in a nutshell](https://zoltantoma.com/posts/2024-03-30-observability-in-a-nutshell/)
 - [Hacking My Inner World](https://zoltantoma.com/posts/2024-03-25-hacking-my_inner_world/)
 - [Backy vs. The Professional](https://zoltantoma.com/posts/2024-03-18-backy-vs-the-professional/)
-- [Playing Life&#39;s Game](https://zoltantoma.com/posts/2024-03-15-playing-lifes-game/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://zoltantoma.com)
