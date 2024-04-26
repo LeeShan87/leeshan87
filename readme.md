@@ -91,7 +91,10 @@ Feel free to reach out:
 ### 📕 Latest Blog Posts from GoSecNinja
 
 <!-- GS-BLOG:START -->
-
+- [Privacy Policy](/privacy/)
+- [Example Post](/blog/example-post/)
+- [Pricing](/docs/pricing/pricing/)
+- [Getting started](/docs/getstart/getting-started/)
 <!-- GS-BLOG:END -->
 
 ➡️ [more blog posts...](https://gosec.ninja)
