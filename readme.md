@@ -91,11 +91,11 @@ Feel free to reach out:
 ### 📕 Latest Blog Posts from GoSecNinja
 
 <!-- GS-BLOG:START -->
+- [A tip for a tip](/docs/inviduals/a-tip-for-a-tip/)
 - [Curious Minds Collective](/docs/inviduals/curious-minds-collective/)
 - [Pricing](/docs/pricing/pricing/)
 - [Privacy Policy](/privacy/)
 - [Example Post](/blog/example-post/)
-- [Getting started](/docs/getstart/getting-started/)
 <!-- GS-BLOG:END -->
 
 ➡️ [more blog posts...](https://gosec.ninja)
