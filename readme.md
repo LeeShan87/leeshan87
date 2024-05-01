@@ -92,10 +92,10 @@ Feel free to reach out:
 
 <!-- GS-BLOG:START -->
 - [Welcome to the docs?](/docs/getstart/welcome-to-the-docs/)
+- [&lpar;cyber&rpar;security first business model](/docs/getstart/cybersecurity-first-business-model/)
 - [Communicating ARR](/docs/pricing/communicating-arr/)
 - [A tip for a tip](/docs/inviduals/a-tip-for-a-tip/)
 - [Curious Minds Collective](/docs/inviduals/curious-minds-collective/)
-- [Pricing](/docs/pricing/pricing/)
 <!-- GS-BLOG:END -->
 
 ➡️ [more blog posts...](https://gosec.ninja)
