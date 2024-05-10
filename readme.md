@@ -91,11 +91,11 @@ Feel free to reach out:
 ### 📕 Latest Blog Posts from GoSecNinja
 
 <!-- GS-BLOG:START -->
-- [Welcome to the docs?](/docs/getstart/welcome-to-the-docs/)
-- [&lpar;cyber&rpar;security first business model](/docs/getstart/cybersecurity-first-business-model/)
-- [Communicating ARR](/docs/pricing/communicating-arr/)
-- [A tip for a tip](/docs/inviduals/a-tip-for-a-tip/)
-- [Curious Minds Collective](/docs/inviduals/curious-minds-collective/)
+- [Welcome to the docs?](https://gosecninja.com/docs/getstart/welcome-to-the-docs/)
+- [&lpar;cyber&rpar;security first business model](https://gosecninja.com/docs/getstart/cybersecurity-first-business-model/)
+- [Communicating ARR](https://gosecninja.com/docs/pricing/communicating-arr/)
+- [A tip for a tip](https://gosecninja.com/docs/inviduals/a-tip-for-a-tip/)
+- [Curious Minds Collective](https://gosecninja.com/docs/inviduals/curious-minds-collective/)
 <!-- GS-BLOG:END -->
 
 ➡️ [more blog posts...](https://gosec.ninja)
